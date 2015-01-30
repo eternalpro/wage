@@ -1,0 +1,26 @@
+body{
+  font-family: '新宋体'
+}
+
+p.description {
+  margin: 15px 0;
+  font-size: 13px;
+}
+
+p tip {
+  color: #FF7D1D;
+}
+
+.importment {
+  font-size: 15;
+  color: #7FD4FD;
+}
+
+.btn-submit {
+  color: #FFF;
+  padding: 8px 12px;
+  background-image:url('../img/btn-submit.jpg');
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  font-weight: bold;
+}
