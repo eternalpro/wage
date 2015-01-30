@@ -1,9 +1,11 @@
-body{
-  font-family: '新宋体'
+input {
+  font-size: 12px;
+  height: 35px;
+  width: 100%;
 }
-
 p.description {
-  margin: 15px 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
   font-size: 13px;
 }
 
@@ -20,7 +22,6 @@ p tip {
   color: #FFF;
   padding: 8px 12px;
   background-image:url('../img/btn-submit.jpg');
-  background-repeat:no-repeat;
-  background-size:100% 100%;
+  background-repeat:repeat-x;
   font-weight: bold;
 }
