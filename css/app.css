@@ -53,6 +53,22 @@ input {
   line-height:32px;
 }
 
+input.error {
+  border: 1px solid #FF7D1D;
+}
+
+div.error {
+  color: #FF7D1D;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: #FCECDC;
+  border: 1px solid #F4D8AC;
+  width: 220px;
+}
+
 p.description {
   margin-top: 15px;
   margin-bottom: 15px;
