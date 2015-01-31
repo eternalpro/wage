@@ -1,47 +1,47 @@
 .container {
-  width: 900px;
+  width: 810px;
   margin-left: auto;
   margin-right: auto;
 }
 .row {
-  width: 900px;
+  width: 810px;
 }
 
 .col-1 {
   float: left;
-  width: 100px;
+  width: 90px;
 }
 .col-2 {
   float: left;
-  width: 200px;
+  width: 180px;
 }
 .col-3 {
   float: left;
-  width: 300px;
+  width: 270px;
 }
 .col-4 {
   float: left;
-  width: 400px;
+  width: 360px;
 }
 .col-5 {
   float: left;
-  width: 500px;
+  width: 450px;
 }
 .col-6 {
-  width: 600px;
+  width: 540px;
 }
 .col-7 {
   float: left;
-  width: 700px;
+  width: 630px;
 }
 
 .col-8 {
   float: left;
-  width: 800px;
+  width: 720px;
 }
 .col-9 {
   float: left;
-  width: 900px;
+  width: 810px;
 }
 
 input {
@@ -82,4 +82,12 @@ span.tip {
 
 h4 {
   font-size:15px;
+}
+
+.des-inp {
+  cursor: pointer;
+  color: #A0A1A5;
+  text-decoration: underline;
+  font-size: 13px;
+  margin-left: 190px;
 }
