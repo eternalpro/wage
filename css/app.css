@@ -1,4 +1,5 @@
 .container {
+  color: #656565;
   width: 810px;
   margin-left: auto;
   margin-right: auto;
@@ -28,6 +29,7 @@
   width: 450px;
 }
 .col-6 {
+  float: left;
   width: 540px;
 }
 .col-7 {
@@ -84,7 +86,7 @@ span.tip {
   color: #7FD4FD;
 }
 
-.btn-submit {
+.btn {
   font-size: 14px;
   border: 0px;
   width: 241px;
@@ -93,6 +95,9 @@ span.tip {
   padding-bottom: 9px;
   background-image:url('../img/btn-submit.jpg');
   background-repeat:repeat;
+}
+
+.btn-submit {
   font-weight: bold;
 }
 
@@ -106,4 +111,10 @@ h4 {
   text-decoration: underline;
   font-size: 13px;
   margin-left: 190px;
+}
+
+div.fangshi{
+  height: 60px;
+  background-image: url('../img/fangshi.jpg');
+  background-repeat: no-repeat; 
 }
