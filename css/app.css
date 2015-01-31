@@ -97,6 +97,9 @@ span.tip {
   background-repeat:repeat;
 }
 
+.btn-small {
+  width: 100px;
+}
 .btn-submit {
   font-weight: bold;
 }
@@ -117,4 +120,32 @@ div.fangshi{
   height: 60px;
   background-image: url('../img/fangshi.jpg');
   background-repeat: no-repeat; 
+}
+
+div.kuang{
+  padding-left: 80px;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  padding-right: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 350px;
+  background-image: url('../img/bg.jpg');
+  background-repeat: no-repeat; 
+}
+
+div.kuang form {
+  font-size: 12px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
 }
