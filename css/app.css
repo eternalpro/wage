@@ -59,7 +59,7 @@ p.description {
   font-size: 13px;
 }
 
-p tip {
+span.tip {
   color: #FF7D1D;
 }
 
@@ -71,11 +71,11 @@ p tip {
 .btn-submit {
   font-size: 14px;
   border: 0px;
-  width: 243px;
+  width: 241px;
   color: #FFF;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 9px;
+  padding-bottom: 9px;
   background-image:url('../img/btn-submit.jpg');
-  background-repeat:repeat-x repeat-y;
+  background-repeat:repeat;
   font-weight: bold;
 }
