@@ -138,6 +138,11 @@ div.shenfenyanzheng{
   background-image: url('../img/shenfenyanzheng.jpg');
   background-repeat: no-repeat; 
 }
+div.finish{
+  height: 60px;
+  background-image: url('../img/finish.jpg');
+  background-repeat: no-repeat; 
+}
 
 
 div.kuang{

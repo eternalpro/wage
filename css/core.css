@@ -147,3 +147,24 @@
   margin-top: 130px;
   margin-bottom: 130px;
 }
+
+.margin150-l{
+  margin-left: 150px;
+}
+.margin150-r{
+  margin-right: 150px;
+}
+.margin150-t{
+  margin-top: 150px;
+}
+.margin150-b{
+  margin-bottom: 150px;
+}
+.margin150-lr{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.margin150-tb{
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
