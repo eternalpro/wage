@@ -190,7 +190,105 @@ table {
   width: 100%;
 }
 
+td.nopad {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+
+
 table td {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+div.h {
+  margin-top:10px;
+  margin-left: -2px;
+  float: left; 
+  height: 15px;
+  background-image: url('../img/h.jpg');
+  background-repeat: no-repeat;
+  width:41px;
+}
+div.q {
+  margin-left: -2px;
+  cursor: pointer;
+  float: left;
+  width: 30px;
+  background-repeat: no-repeat;
+  height: 30px;
+}
+
+div.f {
+  width: 40px;
+  font-size: 12px;
+  margin-top : 40px;
+}
+
+div.fb {
+  width: 40px;
+  font-size: 12px;
+  margin-top : 45px;
+}
+
+div.q2 {
+  background-image: url('../img/q2.jpg');
+}
+
+div.q3 {
+  background-image: url('../img/q3.jpg');
+}
+div.q4 {
+  background-image: url('../img/q4.jpg');
+}
+div.q5 {
+  background-image: url('../img/q5.jpg');
+}
+div.q6 {
+  background-image: url('../img/q6.jpg');
+}
+div.q7 {
+  background-image: url('../img/q7.jpg');
+}
+div.q8 {
+  background-image: url('../img/q8.jpg');
+}
+div.q9 {
+  background-image: url('../img/q9.jpg');
+}
+div.q10 {
+  background-image: url('../img/q10.jpg');
+}
+div.q11 {
+  background-image: url('../img/q11.jpg');
+}
+div.q12 {
+  background-image: url('../img/q12.jpg');
+}
+
+div.qb {
+  margin-top: -5px;
+  margin-left: -2px;
+  cursor: pointer;
+  float: left;
+  width: 35px;
+  background-repeat: no-repeat;
+  height: 36px;
+}
+div.q1 {
+  background-image: url('../img/q1.jpg');
+}
+
+div.split {
+  margin-top: 20px;
+  border-top:1px dashed #cccccc;
+  height: 1px;
+  overflow:hidden;
+  margin-right: 50px;
+}
+
+p.lmargin {
+  margin-top: 10px;
+  margin-bottom: 0px;
 }
