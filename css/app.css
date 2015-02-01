@@ -55,6 +55,11 @@ input {
   line-height:32px;
 }
 
+.input-small {
+  width: 80px;
+}
+
+
 input.error {
   border: 1px solid #FF7D1D;
 }
@@ -122,6 +127,19 @@ div.fangshi{
   background-repeat: no-repeat; 
 }
 
+div.chongzhi{
+  height: 60px;
+  background-image: url('../img/chongzhi.jpg');
+  background-repeat: no-repeat; 
+}
+
+div.shenfenyanzheng{
+  height: 60px;
+  background-image: url('../img/shenfenyanzheng.jpg');
+  background-repeat: no-repeat; 
+}
+
+
 div.kuang{
   padding-left: 80px;
   padding-top: 60px;
@@ -134,7 +152,7 @@ div.kuang{
   background-repeat: no-repeat; 
 }
 
-div.kuang form {
+.form {
   font-size: 12px;
 }
 
@@ -151,10 +169,21 @@ div.kuang form {
 }
 
 .msg-btn {
-  vertical-align:middle;
+  vertical-align:middle!important;
+  margin-bottom: 5px;
+  *margin-bottom: 20px;
   background-image: url('../img/msg-btn.jpg');
   background-repeat: repeat;
   border: 0px;
   width: 130px;
   height: 30px;
+}
+
+table {
+  width: 100%;
+}
+
+table td {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
